@@ -1,0 +1,20 @@
+[
+  {
+    "delivery_id": "delivery_b_1",
+    "customer_id": "customer_b",
+    "webhook_id": "webhook_b",
+    "timestamp": "2026-10-12T14:00:00Z",
+    "status_code": 401,
+    "error": "Receiver rejected authentication",
+    "duration_ms": 120
+  },
+  {
+    "delivery_id": "delivery_c_1",
+    "customer_id": "customer_c",
+    "webhook_id": "webhook_c",
+    "timestamp": "2026-10-12T14:00:00Z",
+    "status_code": null,
+    "error": "No response within 5000 ms",
+    "duration_ms": 5000
+  }
+]

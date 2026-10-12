@@ -1,0 +1,17 @@
+{
+    "customer_a": {
+        "name": "NYC Store",
+        "notifications_enabled": false,
+        "webhook_id": "webhook_a"
+    },
+    "customer_b": {
+        "name": "Tokyo Store",
+        "notifications_enabled": true,
+        "webhook_id": "webhook_b"
+    },
+    "customer_c": {
+        "name": "Berlin Store",
+        "notifications_enabled": true,
+        "webhook_id": "webhook_c"
+    }
+}
